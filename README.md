@@ -28,4 +28,4 @@ dependencies {
 apply plugin: 'com.google.gms.google-services'
 ```
 
-## 2) Add google-services.json File to *Module: app* section
+#### 2) Add google-services.json File to *Module: app* section
