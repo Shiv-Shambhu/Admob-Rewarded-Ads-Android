@@ -4,7 +4,7 @@ Rewarded ads are a popular ad format that gives users an opportunity to watch a 
 ## 1) Import the Firebase Ads SDK
 #### To show the ads in our app we have to first implement the Admob sdk in our app, to do so.
 
-Go to Gradle Scripts->build.gradle (Module: app) section and import below dependencies and click the "sync Now" show at the top:
+Go to Gradle Scripts -> build.gradle (Module: app) section and import below dependencies and click the "sync Now" show at the top:
 
 ```gradle
 dependencies {
