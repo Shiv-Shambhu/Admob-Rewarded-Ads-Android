@@ -27,5 +27,6 @@ dependencies {
 
 apply plugin: 'com.google.gms.google-services'
 ```
+#### Full Code [build.gradle (Module: app)](https://github.com/Shiv-Shambhu/Admob-Rewarded-Ads-Android/blob/main/build.gradle%20(Module:%20app))
 
 #### 2) Add google-services.json File to *Module: app* section
