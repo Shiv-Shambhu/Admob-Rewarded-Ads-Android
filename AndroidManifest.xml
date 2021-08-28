@@ -16,7 +16,7 @@
         android:theme= "@style/AppTheme">
         <activity
             android:screenOrientation="portrait"
-            android:name= ".CoinActivity">
+            android:name= ".activity.CoinActivity">
             <intent-filter>
                 <action android:name= "android.intent.action.MAIN" />
 
