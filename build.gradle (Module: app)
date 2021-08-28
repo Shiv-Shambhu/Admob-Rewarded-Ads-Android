@@ -6,7 +6,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.studytonight.project"
+        applicationId "com.shiv.shambhu"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
