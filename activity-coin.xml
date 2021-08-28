@@ -1,1 +1,37 @@
-Coming soon
+<?xml version=  "1.0" encoding=  "utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools=  "http://schemas.android.com/tools"
+    android:layout_width=  "match_parent"
+    android:layout_height=  "match_parent"
+    tools:context=".activity.CoinActivity">
+
+    <!-- vertical linear layout with 2  button -->
+    <LinearLayout
+        android:layout_centerInParent= "true"
+        android:layout_margin= "16dp"
+        android:orientation= "vertical"
+        android:layout_width= "match_parent"
+        android:layout_height= "wrap_content">
+
+        <!-- Simple Buttons to Load Rewarded Ad when clicked -->
+        <Button
+            android:textSize= "24sp"
+            android:layout_margin= "16dp"
+            android:id= "@+id/loadRewardedBtn"
+            android:text= "Load Rewarded  Ad"
+            android:layout_width= "match_parent"
+            android:layout_height= "60dp"/>
+
+        <!-- Simple Buttons to Show  Rewarded Ad if is is loaded when clicked -->
+        <Button
+            android:textSize= "24sp"
+            android:layout_margin= "16dp"
+            android:id= "@+id/showRewardedBtn"
+            android:text= "Show Rewarded  Ad"
+            android:layout_width= "match_parent"
+            android:layout_height= "60dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
