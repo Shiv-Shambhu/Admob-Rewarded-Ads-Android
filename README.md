@@ -16,3 +16,9 @@ dependencies {
 #### Full Code [build.gradle (Module: app)](https://github.com/Shiv-Shambhu/Admob-Rewarded-Ads-Android/blob/main/build.gradle%20(Module:%20app))
 
 #### Demo App : Coming Soon....
+
+### Join Telegram
+1. Get all Available updates via Telegram Channel.
+2. All Information About **Admob Rewarded Ads Android.**
+##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)
+
