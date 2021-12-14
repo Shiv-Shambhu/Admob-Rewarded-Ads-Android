@@ -1,9 +1,9 @@
 ## Admob-Rewarded-Ads-Android
 Rewarded ads are a popular ad format that gives users an opportunity to watch a video or engage with a playable ad in exchange for a reward within the app.
 
-#### Source Code :- [Download Source code](https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project)
+#### Source Code :- [coming soon](https://github.com/Shiv-Shambhu/Shiv-Shambhu-Project)
 
-#### Demo App :- [https://play.google.com/store/apps/details?id=com.shiv.shambhu](https://play.google.com/store/apps/details?id=com.shiv.shambhu)
+#### Demo App :- [coming soon](https://play.google.com/store/apps/details?id=com.leaf.explorer)
 
 ### Join Telegram
 1. Get all Available updates via Telegram Channel.
